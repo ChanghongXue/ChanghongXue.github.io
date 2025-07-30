@@ -1,92 +1,107 @@
-<!-- Dynamic Banner Header -->
+<!-- 动态标题栏 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.gif" alt="MasterHead" width="100%">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Tech+Writer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=0EA5E9&width=435&lines=System.out.println(%22Hello%2C%20World!%22);console.log(%27%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5%27);print(%22Let's%20Build%20Something%20Awesome%22)" alt="Typing Title" />
 </div>
 
-<!-- Visitor Counter -->
-<p align="center"> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo" alt="Visitors" /> 
-  <img src="https://img.shields.io/github/last-commit/yourusername/yourrepo?label=Last%20Updated" alt="Last Updated" />
-</p>
+<!-- 个人信息栏 (卡片式布局) -->
+## 📋 个人简介
+<table align="center">
+  <tr>
+    <td width="50%">
+      <ul>
+        <li><b>姓名</b>: 薛常宏</li>
+        <li><b>年龄</b>: 22</li>
+        <li><b>籍贯</b>: 新疆哈密</li>
+        <li><b>现居</b>: 浙江杭州</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <ul>
+        <li><b>电话</b>: <code>+86 18140841070 </code></li>
+        <li><b>微信</b>: <code>CharlesX</code></li>
+        <li><b>邮箱</b>: 
+          <a href="mailto:charlesx19@zju.edu.cn">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+          </a>
+        </li>
+        <li><b>社交</b>: 
+          <a href="https://linkedin.com/in/yourprofile">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20">
+          </a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- About Me Section -->
-<h2 align="center">👋 About Me</h2>
-<p align="center">
-  <strong>📍 Based in Hangzhou</strong> | 
-  <strong>📧 charlesx19@zju.edu.cn</strong> | 
-</p>
+<!-- 教育经历 (时间轴样式) -->
+## 🎓 教育经历
+<table>
+  <tr>
+    <td align="center" width="120">2020 - 2023</td>
+    <td>
+      <strong>浙江大学</strong> | 基础数学 硕士（在读）<br>
+      <em>研究方向: 拓扑 </em><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">2016 - 2020</td>
+    <td>
+      <strong>浙江大学</strong> | 数学与应用数学 学士<br>
+      • 主修课程: 数学分析(89), 几何学(97), 复分析(99)<br>
+      • 浙江大学物理竞赛一等奖
+      • 浙江省大学生数学竞赛二等奖
+    </td>
+  </tr>
+</table>
 
-- 🔭 Currently building **[Project Name]** (Next.js + TypeScript)
-- 🌱 Learning **Rust, Kubernetes, and Three.js**
-- 👯 Looking to collaborate on **AI/ML Open Source Projects**
-- 💬 Ask me about **React Performance Optimization**
-- ⚡ Fun fact: **I brew my own kombucha**
-
-<!-- Tech Stack Section -->
-## 🛠 Tech Stack
-
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Backend & DevOps**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
-
+<!-- 知识技能 (可视化进度条) -->
+## 🛠️ 知识技能
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Streak Stats" width="48%">
+
+**编程语言**  
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-007396?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
+
+**前端开发**  
+![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-Advanced-4FC08D?logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?logo=typescript&logoColor=white)
+
+**后端与运维**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-6DB33F?logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-326CE5?logo=kubernetes&logoColor=white)
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark" alt="Activity Graph" width="90%">
-</div>
+<!-- 实践项目 (卡片+徽章组合) -->
+## 🚀 实践项目
 
-<!-- Projects Section -->
-## 🚀 Featured Projects
+<details open>
+<summary><b>📦 智能仓储管理系统 (2023)</b></summary>
 
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| **[AI Content Generator](https://github.com/...)** | GPT-4 powered writing assistant | Next.js, OpenAI API, Supabase | [Live Demo](...) |
-| **[DevOps Dashboard](https://github.com/...)** | Kubernetes cluster monitoring tool | Go, React, Prometheus | [Demo](...) |
-| **[E-commerce Microservice](https://github.com/...)** | Scalable store backend | NestJS, PostgreSQL, Redis | [Demo](...) |
+[![GitHub Stars](https://img.shields.io/github/stars/yourrepo/WMS-System?style=social)](https://github.com/yourrepo/WMS-System)
+[![Tech Stack](https://img.shields.io/badge/Stack-React+SpringBoot+MySQL-blueviolet)]()
 
-<!-- Certifications (Collapsible) -->
-<details>
-  <summary><b>📜 Certifications</b></summary>
-  
-  - **AWS Certified Solutions Architect - Professional**
-  - **Google Professional Data Engineer**
-  - **Certified Kubernetes Administrator (CKA)**
+• 开发基于RFID的库存追踪模块，减少人工盘点时间80%  
+• 实现动态路径规划算法，提升仓库分拣效率35%  
+• 技术栈: React + Ant Design | Spring Boot | MySQL | Redis
 </details>
 
-<!-- Contact Section -->
-## 🤝 Let's Connect
+<details>
+<summary><b>🖥️ 在线教育平台 (2022)</b></summary>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://calendly.com/yourlink">
-    <img src="https://img.shields.io/badge/Book_a_Call-FF6B6B?style=for-the-badge&logo=notion&logoColor=white" alt="Calendly">
-  </a>
-</p>
+[![Live Demo](https://img.shields.io/badge/Demo-在线体验-important)](http://demo.example.com)
+[![License](https://img.shields.io/badge/License-MIT-success)]()
 
-<!-- Footer -->
-<p align="right">
-  <i>"First, solve the problem. Then, write the code." - John Johnson</i>
-</p>
+• 设计实时白板协作系统，支持500+并发用户  
+• 开发课程推荐算法(准确率92%)  
+• 技术栈: Vue3 + Element Plus | Node.js | MongoDB
+</details>
+
+<!-- 动态统计 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=merko&hide=html,css" alt="Top Langs" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=merko" alt="GitHub Stats" width="45%">
+</div>
