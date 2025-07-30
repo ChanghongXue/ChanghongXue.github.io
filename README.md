@@ -14,9 +14,8 @@
 <!-- About Me Section -->
 <h2 align="center">👋 About Me</h2>
 <p align="center">
-  <strong>📍 Based in San Francisco</strong> | 
-  <strong>📧 your.email@example.com</strong> | 
-  <strong>🔗 yourportfolio.com</strong>
+  <strong>📍 Based in Hangzhou</strong> | 
+  <strong>📧 charlesx19@zju.edu.cn</strong> | 
 </p>
 
 - 🔭 Currently building **[Project Name]** (Next.js + TypeScript)
@@ -30,8 +29,7 @@
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MATLAB](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
